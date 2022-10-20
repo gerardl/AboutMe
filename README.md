@@ -1,6 +1,6 @@
 ![Gerard](self.jfif)
 ## **Gerard Lucas** - Senior Software Developer
----
+
 **Home** | [EJ Gallo](GALLO.md) |
 [Paragon Steel](PARAGON.md) |
 [Meridian Medical](MERIDIAN.md) |
