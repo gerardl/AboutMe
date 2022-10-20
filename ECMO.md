@@ -8,7 +8,7 @@
 
 ---
 
-![MMT Logo](meridian.png)
+![MMT Logo](innovative.jfif)
 
 ### **InnovativeECMO** - Medical Calculators & Cannula Selection
 

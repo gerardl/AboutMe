@@ -17,6 +17,17 @@
 Created a company-wide MES and ERP system that manages the scheduling, production, auditing,  
 sales, and shipping of tubular steel for a major producer of oil line pipe, ASTM, structural piling, and sprinkler pipe.  
 
+Created API to return quality assurance data to Paragon customers:
+
+``` js
+let findPipe = function (barcode) {
+  return Paragon.QA.pipeDetail(barcode, API_KEY);
+};
+
+const pipe = findPipe('P9999J0001');
+console.log(pipe.status);
+```
+
 #### **Technologies Used**
 
 + ASP.NET
